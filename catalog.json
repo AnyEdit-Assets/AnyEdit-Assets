@@ -1,14 +1,182 @@
 [
   {
     "id": "asset_001",
-    "name": "Red Heartbeat",
+    "name": "Loading Lottie",
     "category": "Motion VFX",
-    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/demo_sticker.json"
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading_lottie.json"
   },
   {
     "id": "asset_002",
-    "name": "Volleyball",
+    "name": "Sound Voice Waves",
     "category": "Motion VFX",
-    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/refs/heads/main/play_volleyball.json"
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/sound_voice_waves.json"
+  },
+  {
+    "id": "asset_003",
+    "name": "Audio Amp Voice",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/audio_amp_voice.json"
+  },
+  {
+    "id": "asset_004",
+    "name": "Voice Line",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/voice_line.json"
+  },
+  {
+    "id": "asset_005",
+    "name": "Red Pulsing Dot",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/red_pulsing_dot.json"
+  },
+  {
+    "id": "asset_006",
+    "name": "Revenue",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/revenue.json"
+  },
+  {
+    "id": "asset_007",
+    "name": "Payment Success",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/payment_success.json"
+  },
+  {
+    "id": "asset_008",
+    "name": "Payment Success 1",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/payment_success1.json"
+  },
+  {
+    "id": "asset_009",
+    "name": "Payment Success 2",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/payment_success2.json"
+  },
+  {
+    "id": "asset_010",
+    "name": "Payment Success 3",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/payment_success3.json"
+  },
+  {
+    "id": "asset_011",
+    "name": "Arrow",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/arrow.json"
+  },
+  {
+    "id": "asset_012",
+    "name": "Arrow 1",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/arrow1.json"
+  },
+  {
+    "id": "asset_013",
+    "name": "Arrow 2",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/arrow2.json"
+  },
+  {
+    "id": "asset_014",
+    "name": "Arrow 3",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/arrow3.json"
+  },
+  {
+    "id": "asset_015",
+    "name": "Fire",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/fire.json"
+  },
+  {
+    "id": "asset_016",
+    "name": "Wavey Birdie",
+    "category": "Emoji",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/wavey_birdie.json"
+  },
+  {
+    "id": "asset_017",
+    "name": "Cute Mascot Jumping",
+    "category": "Emoji",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/cute_mascot_jumping.json"
+  },
+  {
+    "id": "asset_018",
+    "name": "Cat Playing",
+    "category": "Emoji",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/cat_playing.json"
+  },
+  {
+    "id": "asset_019",
+    "name": "Cat Walk",
+    "category": "Emoji",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/cat_walk.json"
+  },
+  {
+    "id": "asset_020",
+    "name": "Loading",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading.json"
+  },
+  {
+    "id": "asset_021",
+    "name": "Loading 1",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading1.json"
+  },
+  {
+    "id": "asset_022",
+    "name": "Loading 2",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading2.json"
+  },
+  {
+    "id": "asset_023",
+    "name": "Loading 3",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading3.json"
+  },
+  {
+    "id": "asset_024",
+    "name": "Loading 4",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/loading4.json"
+  },
+  {
+    "id": "asset_025",
+    "name": "Location Detect",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/location_detect.json"
+  },
+  {
+    "id": "asset_026",
+    "name": "Bursting Bombs",
+    "category": "Motion VFX",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/bursting_bombs.json"
+  },
+  {
+    "id": "asset_027",
+    "name": "Congratulation Effect",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/congratulation_effect.json"
+  },
+  {
+    "id": "asset_028",
+    "name": "Congratulation Effect 1",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/congratulation_effect1.json"
+  },
+  {
+    "id": "asset_029",
+    "name": "Congratulation Effect 2",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/congratulation_effect2.json"
+  },
+  {
+    "id": "asset_030",
+    "name": "Play Volleyball",
+    "category": "Trending",
+    "download_url": "https://raw.githubusercontent.com/AnyEdit-Assets/AnyEdit-Assets/main/play_volleyball.json"
   }
 ]
